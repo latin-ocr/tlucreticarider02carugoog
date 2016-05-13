@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tlucreticarider02carugoog_0003.png"; bbox 0 0 2438 3998; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 136 1525 1152 1785">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 136 1456 1152 1785">
+     <span class='ocr_line' id='line_1_1' title="bbox 225 1525 1152 1605; baseline 0.01 -6.124"><span class='ocrx_word' id='word_1_1' title='bbox 225 1525 490 1604; x_wconf 81' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_2' title='bbox 516 1526 753 1602; x_wconf 73' lang='lat' dir='ltr'><strong>coLLEGE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 778 1526 996 1605; x_wconf 79' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_4' title='bbox 1149 1589 1152 1599; x_wconf 70' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 136 1622 772 1785; baseline 0.019 -36"><span class='ocrx_word' id='word_1_5' title='bbox 136 1622 159 1699; x_wconf 39' lang='lat'>7²</span> <span class='ocrx_word' id='word_1_6' title='bbox 452 1687 772 1785; x_wconf 58' lang='lat' dir='ltr'>FromrheLibraryff</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 303 1845 920 2035">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 303 1845 920 2035">
+     <span class='ocr_line' id='line_1_3' title="bbox 303 1845 920 1913; baseline 0 -3"><span class='ocrx_word' id='word_1_7' title='bbox 303 1845 508 1912; x_wconf 85' lang='lat' dir='ltr'>EDWARD</span> <span class='ocrx_word' id='word_1_8' title='bbox 530 1845 763 1913; x_wconf 84' lang='lat' dir='ltr'>KENNARD</span> <span class='ocrx_word' id='word_1_9' title='bbox 785 1845 920 1913; x_wconf 87' lang='lat' dir='ltr'>RAND</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 502 1957 710 2035; baseline 0.014 -15"><span class='ocrx_word' id='word_1_10' title='bbox 502 1957 578 2021; x_wconf 85' lang='lat' dir='ltr'><strong>Class</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 592 1958 629 2021; x_wconf 86' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_12' title='bbox 640 1968 710 2035; x_wconf 92' lang='lat'>1894</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 331 2092 872 2178">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 331 2092 872 2178">
+     <span class='ocr_line' id='line_1_5' title="bbox 331 2092 872 2178; baseline 0.007 -22"><span class='ocrx_word' id='word_1_13' title='bbox 331 2100 408 2178; x_wconf 86' lang='lat' dir='ltr'><strong>Pope</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 421 2092 561 2156; x_wconf 83' lang='lat' dir='ltr'><strong>Professor</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 574 2092 610 2155; x_wconf 88' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_16' title='bbox 618 2099 706 2169; x_wconf 82' lang='lat' dir='ltr'><strong>Latin,</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 720 2117 872 2172; x_wconf 85' lang='lat'>1931·1945</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1224 3998">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1224 3998">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1224 3998; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1224 3998; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
